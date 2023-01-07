@@ -49,8 +49,8 @@ function concatenateArray() {
   
 }
 //calling the functions
-PrintDeveloperswithMap();
-PrintDeveloperbyForEach();
-addData();
-removeAdmin();
-concatenateArray();
+//PrintDeveloperswithMap();
+//PrintDeveloperbyForEach();
+//addData();
+//removeAdmin();
+//concatenateArray();
